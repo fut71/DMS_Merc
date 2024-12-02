@@ -7,7 +7,7 @@
 ---
 
 ## 개요 Overview
-돈미세 용병단은 Direct3D 11를 사용하여 개발된 게임 엔진을 기반으로 한 게임입니다. 현재 리포지토리에서는 리소스와 실행 파일등을 제외하고, 소스 코드와 헤더만을 제공합니다.
+ - 돈미세 용병단은 Direct3D 11를 사용하여 개발된 게임 엔진을 기반으로 한 게임입니다. 현재 리포지토리에서는 리소스와 실행 파일등을 제외하고, 소스 코드와 헤더만을 제공합니다.
 The DMS Mercenery is a game built on a custom engine developed using Direct3D 11. Currently, the repository only provides source code and headers, excluding resources and executables.
 ---
 
