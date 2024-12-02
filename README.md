@@ -2,7 +2,7 @@
 ### 현재 버전: v1.0.1 (Build 24.1111)
 
 <img src="dms_title.png" alt="DMS Mercenery 타이틀 로고" width="500">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/<영상_ID>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+영상 추가 예정 <iframe width="560" height="315" src="https://www.youtube.com/embed/<영상_ID>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
