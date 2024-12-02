@@ -2,7 +2,7 @@
 ### 배포일: 2024년 11월 11일
 ### 현재 버전: v1.0.1 (Build 24.1111)
 
-![DMS Mercenery 타이틀 로고](..../dms_title.png)
+![DMS Mercenery 타이틀 로고](dms_title.png)
 
 ---
 
