@@ -1,4 +1,4 @@
-# 돈미세 용병단(DMS Mercenery) (타이틀)
+# 돈미세 용병단(DMS Mercenery)
 ### 현재 버전: v1.0.1 (Build 24.1111)
 
 <img src="dms_title.png" alt="DMS Mercenery 타이틀 로고" width="500">
