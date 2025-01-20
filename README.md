@@ -3,7 +3,7 @@
 
 <img src="dms_title.png" alt="DMS Mercenery 타이틀 로고" width="500">
 <iframe width="560" height="315" src="https://youtu.be/CUTfOIyOGYs?si=hWzCK4cJUfH05fBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[![Video Label](http://img.youtube.com/vi/jIyO3lS9v29Mr4Ml/0.jpg)]
+[![Video Label](http://img.youtube.com/vi/jIyO3lS9v29Mr4Ml/0.jpg)](https://youtu.be/jIyO3lS9v29Mr4Ml)
 ---
 
 ## 개요 Overview
