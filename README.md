@@ -2,8 +2,7 @@
 ### 현재 버전: v1.0.1 (Build 24.1111)
 
 <img src="dms_title.png" alt="DMS Mercenery 타이틀 로고" width="500">
-<iframe width="560" height="315" src="https://youtu.be/CUTfOIyOGYs?si=hWzCK4cJUfH05fBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[![Video Label](http://img.youtube.com/vi/CUTfOIyOGYs/0.jpg)](https://youtu.be/CUTfOIyOGYs)
+[![YouTube Video](https://img.youtube.com/vi/CUTfOIyOGYs/0.jpg)](https://www.youtube.com/watch?v=CUTfOIyOGYs)
 
 ---
 
